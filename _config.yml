@@ -16,7 +16,7 @@
 title: Austin Jones Media
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Austin Jones, Film and Media Editor
+  Austin Jones, Film and Media Production
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -58,15 +58,18 @@ plugins:
 author:
   name             : "Austin Jones"
   avatar           : "/assets/images/austin.jpg"
-  bio              : "Film and Media Editor"
-  location         : "Tempe, AZ"
+  bio              : "Film and Media Production"
+  location         : "Tempe, Arizona"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:austinjones860@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://austin-jones.com"
+    - phone: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "5O3-4OO-53O9"
+        # - label: "Website"
+        #   icon: "fas fa-fw fa-link"
+        #   url: "https://austin-jones.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"

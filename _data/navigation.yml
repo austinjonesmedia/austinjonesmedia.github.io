@@ -1,7 +1,7 @@
 main:
   - title: "Reel"
     url: "#reel"
-  - title: "Portfolio"
-    url: "#portfolio"
+  - title: "Recent Work"
+    url: "#recent"
   - title: "About"
     url: "#about"
