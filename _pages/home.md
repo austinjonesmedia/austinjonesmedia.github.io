@@ -50,7 +50,7 @@ permalink: /
 </figure>
 
 <figure class="full">
-    <iframe src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe> 
+    <iframe src="https://www.youtube.com/embed/_dLmLe9yIL0?si=DXtJ51onHlYe7hKq" frameborder="0" allowfullscreen></iframe> 
     <figcaption><strong><em>Westview High School - News Intro</em></strong> - Austin Jones. Motion graphics example.</figcaption>
 </figure>
 
