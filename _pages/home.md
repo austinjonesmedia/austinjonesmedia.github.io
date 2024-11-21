@@ -65,6 +65,11 @@ permalink: /
 </figure>
 
 <figure class="full">
+    <iframe src="https://www.youtube.com/embed/YB4jSZEpDvE?si=y9kkcefAjXhELxWd" frameborder="0" allowfullscreen></iframe> 
+    <figcaption><strong><em>Video Essay</em></strong> - Austin Jones (Editor)</figcaption>
+</figure>
+
+<figure class="full">
     <iframe src="https://www.youtube.com/embed/TX6oW3D5b9c?si=WzlYYejvpZCVoGvj" frameborder="0" allowfullscreen></iframe> 
     <figcaption><strong><em>The Haus</em></strong> - Austin Jones (Director of Photography). An ASU short film.</figcaption>
 </figure>
