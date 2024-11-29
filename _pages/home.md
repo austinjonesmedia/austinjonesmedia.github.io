@@ -15,7 +15,7 @@ permalink: /
 ## Editing Reel
 
 <figure class="full">
-    <iframe src="https://www.youtube.com/embed/0HXE_xAUFp4?si=LD8vI1MLk4kzb_-R" frameborder="0" autoplay allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/fbkx02iAHqQ?si=qb-tUNYl9F6ZUGCp" frameborder="0" autoplay allowfullscreen></iframe>
 </figure>
 
 <!--------------------------------------------------------------------->
