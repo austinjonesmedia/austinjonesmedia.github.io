@@ -86,4 +86,4 @@ I am fluent in Adobe Premiere Pro. I also have a lot of experience using After E
 
 I enjoy sports: I played club and high school baseball and also club and high school varsity soccer. I have been living in Tempe, Arizona for over 3 years, and I am originally from Portland, Oregon. I love to spend time outdoors. I like to ski, mountain bike, and hike. I play pickleball and other sports with friends and am currently on an intramural volleyball team at ASU.
 
-I have a good understanding of social media. I attended Spanish immersion school when I was young, and I can still understand Spanish pretty well but my speaking is rusty. I have an enthusiastic and friendly personality.
+I have a good understanding of social media. I attended Spanish immersion school when I was young; I still understand Spanish but my speaking is rusty. I love the creative process.
