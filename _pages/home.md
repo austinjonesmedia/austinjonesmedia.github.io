@@ -30,8 +30,8 @@ permalink: /
 </figure>
 
 <figure class="full">
-    <iframe src="https://www.youtube.com/embed/uRvjAc09bns?si=VOYOwxBhMLJgQZvZ" frameborder="0" allowfullscreen></iframe> 
-    <figcaption><strong><em>Precious Moment in Time</em></strong> - Austin Jones (editor). ASU Senior Capstone Project. This is the "picture lock" version. Final sound, coloring, and VFX are in progress.</figcaption>
+    <iframe src="https://www.youtube.com/embed/4wQCU2oLZlE?si=rWIFxi5xadmpVXA0" frameborder="0" allowfullscreen></iframe> 
+    <figcaption><strong><em>Precious Moment in Time</em></strong> - Austin Jones (editor). ASU Senior Capstone Project.</figcaption>
 </figure>
 
 <figure class="full">
