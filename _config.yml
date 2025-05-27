@@ -25,6 +25,8 @@ search: false
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+# head_custom: true
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,7 +59,7 @@ plugins:
 
 author:
   name             : "Austin Jones"
-  avatar           : "/assets/images/austin-roodbridge-square.jpg"
+  avatar           : "/assets/images/austin-asu-square.jpg"
   bio              : "Film and Media Production"
   location         : "Tempe, AZ | Los Angeles, CA"
   links:
