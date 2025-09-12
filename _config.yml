@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Austin Jones, Film and Media Production
 #twitter_username: username
 #github_username: username
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 
 # Build settings

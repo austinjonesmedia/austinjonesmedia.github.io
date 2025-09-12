@@ -26,9 +26,4 @@ title: "Portfolio"
 <figure class="full">
     <iframe src="https://www.youtube.com/embed/OgMaYF8uDAw?si=LqaSYC-MzkCxOlVb" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
     <figcaption><em>The Last Note</em> <strong>(Editor)</strong>, some details go here.</figcaption>
-</figure>
-
-<figure class="full">
-    <iframe src="https://www.youtube.com/embed/KxrMX1ZiB0k?si=8t1WZxXzgLllATSQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
-    <figcaption><em>Two Player</em> <strong>(Editor)</strong>, details go here.</figcaption>
-</figure>
+</figure>s

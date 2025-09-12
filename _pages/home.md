@@ -59,10 +59,6 @@ permalink: /
     <figcaption><strong><em>George Lucas</em></strong> - Austin Jones. A video essay.</figcaption>
 </figure>
 
-<figure class="full">
-    <iframe src="https://www.youtube.com/embed/KxrMX1ZiB0k?si=8t1WZxXzgLllATSQ" frameborder="0" allowfullscreen></iframe> 
-    <figcaption><strong><em>Two Player</em></strong> - Austin Jones (Editor). An ASU short film.</figcaption>
-</figure>
 
 <!--------------------------------------------------------------------->
 
