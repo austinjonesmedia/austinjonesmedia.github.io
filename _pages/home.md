@@ -67,9 +67,9 @@ permalink: /
 
 ## About Me
 
-I've just graduated form Arizona State University's Sidney Poitier New American Film School. I majored in Film and Media production and emphasized the editing track. I have also took all the upper-level cinematography courses. I am interested in editing, videography, and cinematography. I also enjoy creating motion graphics. My dream is to create media that involves sports or music, but I’m interested in working in any form of media.
+I recently graduated form Arizona State University's Sidney Poitier New American Film School. I majored in Film and Media production and emphasized the editing track. I also took all of the upper-level cinematography courses. I am interested in editing, videography, and cinematography. I also enjoy creating motion graphics. My dream is to create media that involves sports or music, but I’m interested in working in any form of media.
 
-I am fluent in Adobe Premiere Pro. I also have a lot of experience using After Effects creating motion graphics and other animated projects. I can also use most of the Adobe Suite, particularly Photoshop, and Illustrator. I have done a bit of editing and color in Davinci Resolve as well. Previously, I used Sony Vegas for editing. I am comfortable with basic camera and lighting equipment. I have a Sony a6700 and Dji Osmo Pocket 3. I also have experience with Google and Microsoft Office applications for word processing and presentations.
+I am fluent in Adobe Premiere Pro. I also have a lot of experience using After Effects creating motion graphics and other animated projects. I can also use most of the Adobe Suite, particularly Photoshop, and Illustrator. I have done a bit of editing and color in Davinci Resolve. Previously, I used Sony Vegas for editing. I am comfortable with basic camera and lighting equipment. I have a Sony a6700 and Dji Osmo Pocket 3. I also have experience with Google and Microsoft Office applications for word processing and presentations.
 
 I enjoy sports: I played club and high school baseball and also club and high school varsity soccer. I have been living in Tempe, Arizona for over 3 years, and I am originally from Portland, Oregon. I love to spend time outdoors. I like to ski, mountain bike, and hike. I play pickleball and other sports with friends and am currently on an intramural volleyball team at ASU.
 

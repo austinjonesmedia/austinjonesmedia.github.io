@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I just graduated from [Arizona State University's](asu.edu) [Sidney Poitier New American Film School](https://film.asu.edu/). I'm majored in Film and Media Production, with an emphasis on Editing. My dream is to work in sports, music, or gaming videography or to create documentaries. While I have focused on editing at ASU, I also have interests in videography and cinematography, and I've taken all of the classes offered in Cinematography. 
+I reeently graduated from [Arizona State University's](asu.edu) [Sidney Poitier New American Film School](https://film.asu.edu/). I majored in Film and Media Production, with an emphasis on Editing. My dream is to work in sports, music, or gaming videography or to create documentaries. While I have focused on editing at ASU, I also have interests in videography and cinematography, and I took all of the classes offered in Cinematography. 
 
 I'm fluent in Adobe Premiere Pro and have used it to edit most of my projects. I've done coloring in Davinci Resolve and have experience in Sony Vegas. I use After Effects to create motion graphics and other animated projects. I am comfortable with basic camera and lighting equipment. I have experience with Google and Microsoft Office applications for word processing and presentations.
 
